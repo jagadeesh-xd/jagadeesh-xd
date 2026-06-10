@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/198955088?v=4" width="120" style="border-radius:50%"/>
+<img src="https://github.com/jagadeesh-xd.png" width="150" height="150" style="border-radius: 50%;" />
 
-# 👋 Hey, I'm Jagadeesh V
+<br/>
 
-### `@jagadeesh-xd` · Developer · Gamer · Cracker
+# 👋 Hey, I'm **Jagadeesh V**
+
+### `@jagadeesh-xd` &nbsp;·&nbsp; Developer &nbsp;·&nbsp; Gamer &nbsp;·&nbsp; Cracker
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jagadeesh-xd&color=00ffe0&style=flat-square&label=Profile+Views)](https://github.com/jagadeesh-xd)
 [![GitHub followers](https://img.shields.io/github/followers/jagadeesh-xd?style=flat-square&color=9b6dff&label=Followers)](https://github.com/jagadeesh-xd?tab=followers)
